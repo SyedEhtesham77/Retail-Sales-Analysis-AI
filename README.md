@@ -92,4 +92,9 @@ Ensure the CSV contains the columns used by the notebook: `Date`, `Category`, `R
 - Do not upload confidential or personally identifiable data to public services.
 
 ## Author details
-Replace `YourName` in the required filenames with your full name before submission. Add your name, college, branch, roll number (if requested by the form), and submission date to the report only if required. Verify the internship's exact submission instructions before uploading.
+Author: Syed Ehtesham
+Project: Retail Sales Analysis and AI-Based Sales Prediction
+Internship: AICTE | IBM SkillsBuild Data Analytics with AI Internship 2026 — BharatCares
+Technologies: Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
+
+This project demonstrates data cleaning, exploratory data analysis, data visualization, and basic machine learning using a synthetic retail sales dataset.
